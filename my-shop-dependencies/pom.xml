@@ -40,7 +40,7 @@
         <lombok.version>1.18.2</lombok.version>
         <jackson.version>2.9.5</jackson.version>
         <validation-api.version>1.1.0.Final</validation-api.version>
-        <hibernate-validator.version>5.3.4.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.6.Final</hibernate-validator.version>
         <kaptcha.version>2.3</kaptcha.version>
     </properties>
 
